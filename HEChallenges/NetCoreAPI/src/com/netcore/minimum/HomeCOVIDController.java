@@ -22,4 +22,5 @@ public class HomeCOVIDController {
 		return result;
 	}
 
+	//adding the next method to this Class itself
 }
