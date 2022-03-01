@@ -14,7 +14,7 @@ import com.netcore.bean.StatewiseVaccList;
 
 public class DetailsProcessor {
 
-	public static final String DIR_PATH = "F:\\Prabin E\\EclipseWorkspace\\NetCoreAPI\\WebContent\\WEB-INF\\resources\\covid_vaccine_statewise.csv";
+	public static final String DIR_PATH = "..\\WebContent\\WEB-INF\\resources\\covid_vaccine_statewise.csv";
 
 	public static int total_vacc_for_state = 0;
 	public static String queryState = "";
