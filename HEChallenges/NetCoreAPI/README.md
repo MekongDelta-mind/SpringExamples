@@ -6,11 +6,11 @@ The project is an attempt to solve one of the challenge provided by one of the C
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Running the tests
+## Running the tests (Testing API using PostMan)
 
 <!-- Giving the link to the heroku deployment and mentioning the response ot the link -->
 
-## Deployment (to heroku for better access)
+## Deployment (to heroku for better access) (coming soon)
 
 <!-- Deploying the war onto Heroku and testing with the link
  -->
